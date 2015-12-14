@@ -45,4 +45,5 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'paperclip'
   gem 'rspec-rails'
+  gem 'humanist-errors'
 end

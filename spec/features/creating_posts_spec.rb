@@ -1,5 +1,6 @@
 require 'rails_helper.rb'
 
+
 feature 'Creating posts' do
   scenario 'can create a post' do
     visit '/'
